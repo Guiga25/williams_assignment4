@@ -1,0 +1,10 @@
+adc: 148
+smite: 148
+jing: 148
+wei: 148
+stars: 148
+hunter: 148
+conquest: 148
+fun: 148
+lane: 148
+tower: 148
